@@ -375,40 +375,6 @@ Models generate the following outputs:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To enhance this project:
-
-1. Improve model accuracy through feature engineering
-2. Implement additional algorithms (Random Forest, Neural Networks)
-3. Optimize code efficiency and performance
-4. Expand documentation and examples
-5. Add more comprehensive unit tests
-
----
-
-## 📄 License
-
-This project is open source and available for educational and research purposes.
-
----
-
-## 👨‍💻 Author
-
-**Dulakshi Guruge**  
-Repository: [sugarcane-yield-prediction](https://github.com/DulakshiGuruge2001/sugarcane-yield-prediction)
-
----
-
-## 📞 Support & Contact
-
-For questions, issues, or collaboration opportunities:
-- Open an issue in the repository
-- Review the code documentation in each script
-- Check the Jupyter notebooks for detailed explanations
-
----
-
 ## 🔗 References & Resources
 
 ### Key Techniques
@@ -421,17 +387,4 @@ For questions, issues, or collaboration opportunities:
 - Yield prediction methodologies
 - Feature importance in agricultural modeling
 
----
 
-## 📋 Changelog
-
-**Latest Update**: June 5, 2026
-- Initial repository setup with comprehensive analysis pipeline
-- Five core R analysis scripts
-- Multiple dataset formats for flexibility
-- Complete documentation and methodology
-
----
-
-**Last Updated**: 2026-06-05  
-**Status**: Active Development
